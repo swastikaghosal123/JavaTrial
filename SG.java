@@ -4,4 +4,8 @@ class SG
     {
      ///code
     }
+    public void m1()
+    {
+        ///code2
+    }
 }
